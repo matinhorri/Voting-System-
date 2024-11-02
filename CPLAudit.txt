@@ -1,0 +1,133 @@
+CPL
+Number of Parties: 6
+Candidates in each party: 
+-- Democratic: Foster Volz Pike 
+-- Republican: Green Xu Wang 
+-- New Wave: Jacks Rosen 
+-- Reform: McClure Berg 
+-- Green: Zheng Melvin 
+-- Independent: Peters 
+Number of ballots: 9
+Number of seats: 3
+-----BALLOT PROCESS----- 
+
+|| Ballot 1||
+Ballot -> Democratic
+
+|| Ballot 2||
+Ballot -> Democratic
+
+|| Ballot 3||
+Ballot -> Republican
+
+|| Ballot 4||
+Ballot -> Green
+
+|| Ballot 5||
+Ballot -> Independent
+
+|| Ballot 6||
+Ballot -> Reform
+
+|| Ballot 7||
+Ballot -> Reform
+
+|| Ballot 8||
+Ballot -> Democratic
+
+|| Ballot 9||
+Ballot -> Republican
+
+-----Quota (#Ballots/#Seats)-----
+Quota = 3
+
+CPL
+Number of Parties: 6
+Candidates in each party: 
+-- Democratic: Foster Volz Pike 
+-- Republican: Green Xu Wang 
+-- New Wave: Jacks Rosen 
+-- Reform: McClure Berg 
+-- Green: Zheng Melvin 
+-- Independent: Peters 
+Number of ballots: 10
+Number of seats: 3
+-----BALLOT PROCESS----- 
+
+|| Ballot 1||
+Ballot -> Independent
+
+|| Ballot 2||
+Ballot -> Democratic
+
+|| Ballot 3||
+Ballot -> Democratic
+
+|| Ballot 4||
+Ballot -> Republican
+
+|| Ballot 5||
+Ballot -> Green
+
+|| Ballot 6||
+Ballot -> Independent
+
+|| Ballot 7||
+Ballot -> Reform
+
+|| Ballot 8||
+Ballot -> Reform
+
+|| Ballot 9||
+Ballot -> Democratic
+
+|| Ballot 10||
+Ballot -> Republican
+
+-----Quota (#Ballots/#Seats)-----
+Quota = 6
+
+-----Ballot Distribution-----
+Democratic: 6
+Republican: 4
+New Wave: 0
+Reform: 4
+Green: 2
+Independent: 3
+
+-----Seat Allocation-----
+Democratic: 1
+Republican: 0
+New Wave: 0
+Reform: 0
+Green: 0
+Independent: 0
+
+-----Remaining Ballots and Available Seats-----
+Democratic: 0
+
+Republican: 4
+
+New Wave: 0
+
+Reform: 4
+
+Green: 2
+
+Independent: 3
+
+Remaining seats: 2
+-----Draw Lottery-----
+New Wave gets a seat
+-----Draw Lottery-----
+Independent gets a seat
+
+-----Election Winners-----
+-- Democratic: Foster 
+-- Republican: 
+-- New Wave: Jacks 
+-- Reform: 
+-- Green: 
+-- Independent: Peters 
+
+-----End-----

@@ -1,0 +1,76 @@
+IR
+Number of Candidates: 4
+Candidates:
+Rosen (D)
+Kleinberg (R)
+Chou (I)
+Royce (L)
+Number of ballots: 6
+-----BALLOT PROCESS----- 
+
+|| Ballot 1||
+1 3 4 2 
+Ballot -> Rosen (D)
+
+\\ Ballot Mapping \\
+Rosen (D) [1] Kleinberg (R) [0] Chou (I) [0] Royce (L) [0] 
+
+|| Ballot 2||
+1 0 2 0 
+Ballot -> Rosen (D)
+
+\\ Ballot Mapping \\
+Rosen (D) [2] Kleinberg (R) [0] Chou (I) [0] Royce (L) [0] 
+
+|| Ballot 3||
+1 2 3 0 
+Ballot -> Rosen (D)
+
+\\ Ballot Mapping \\
+Rosen (D) [3] Kleinberg (R) [0] Chou (I) [0] Royce (L) [0] 
+
+|| Ballot 4||
+3 2 1 4 
+Ballot -> Chou (I)
+
+\\ Ballot Mapping \\
+Rosen (D) [3] Kleinberg (R) [0] Chou (I) [1] Royce (L) [0] 
+
+|| Ballot 5||
+0 0 1 2 
+Ballot -> Chou (I)
+
+\\ Ballot Mapping \\
+Rosen (D) [3] Kleinberg (R) [0] Chou (I) [2] Royce (L) [0] 
+
+|| Ballot 6||
+0 0 0 1 
+Ballot -> Royce (L)
+
+\\ Ballot Mapping \\
+Rosen (D) [3] Kleinberg (R) [0] Chou (I) [2] Royce (L) [1] 
+
+\\ Percentage Mapping \\
+Rosen (D) [0.500000] Kleinberg (R) [0.000000] Chou (I) [0.333333] Royce (L) [0.166667] 
+
+\\ Percentage Mapping \\
+Rosen (D) [0.500000] Kleinberg (R) [-0.166667] Chou (I) [0.333333] Royce (L) [0.166667] 
+
+-----BALLOT REDISTRIBUTION----- 
+
+Eliminated Candidate: Royce (L) [1]
+|| Ballot 1||
+0 0 0 1 
+Ballot -> No One
+
+\\ Ballot Mapping \\
+Rosen (D) [3] Kleinberg (R) [-1] Chou (I) [2] Royce (L) [1] 
+
+\\ Percentage Mapping \\
+Rosen (D) [0.500000] Kleinberg (R) [-0.166667] Chou (I) [0.333333] Royce (L) [-0.166667] 
+
+\\ Popular Votes \\
+Rosen (D) [3] Kleinberg (R) [-1] Chou (I) [2] Royce (L) [-1] 
+
+-----WINNER-----
+The winner is Rosen (D)
