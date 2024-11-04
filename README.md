@@ -1,6 +1,3 @@
-# repo-Team24
-Matin Horri, Wenjiang Jiang, Shivali Mukherji, and Michael Vang
-
 # Get started
 Run the following commands:
 
